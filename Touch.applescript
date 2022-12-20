@@ -1,3 +1,8 @@
+#
+# Alexander Korostelin 2022
+# https://www.linkedin.com/in/akorostelin/
+#
+
 tell application "Finder"
 	set frontmost to true
 	set filefullname to "untitled"
